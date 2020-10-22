@@ -1,0 +1,33 @@
+
+
+.cake-card, .biscuit-card, .bread-card {
+    padding: 0;
+    width: 300px;
+    height: 450px;
+    margin: 20px;
+    box-shadow: 2px 2px 3px 1px rgba(238, 233, 229, 0.726) ;
+    border-radius: 1.5%;
+    box-sizing: border-box;
+
+}
+
+.cake-card h2, .biscuit-card h2, .bread-card h2 {
+    font-size: 1.35rem;
+    text-align: center;
+}
+
+.cake-card h3, .biscuit-card h3, .bread-card h3 {
+    font-size: 1.15rem;
+    text-align: start;
+    margin:1.6rem ;
+    border-bottom: 1px solid lightgrey;
+}
+
+.cake-card p, .biscuit-card p, .bread-card p {
+    font-size: 1.0rem;
+    text-align: start;
+    margin:1.6rem ;
+}
+
+
+
